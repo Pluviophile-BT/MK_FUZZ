@@ -1,0 +1,8 @@
+﻿  main.c
+d:\cp\project1\project1\mkfuzz.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“__CONF_ARGS”的左侧
+  正在生成代码
+  10 of 14 functions (71.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Project1.vcxproj -> D:\cp\Project1\x64\Release\Project1.exe

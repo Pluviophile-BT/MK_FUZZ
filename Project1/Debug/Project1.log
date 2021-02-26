@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\cp\project1\project1\源.cpp(9): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“unsigned char *”
+d:\cp\project1\project1\源.cpp(13): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“unsigned char *”
+  Project1.vcxproj -> D:\cp\Project1\Debug\Project1.exe
